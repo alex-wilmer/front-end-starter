@@ -2,12 +2,16 @@
 
 Install:
 
-    make
+    npm install
 
-Run server:
+Start development server...
 
-    cd api && npm start
+    npm start
 
-Run client in development:
+...then go to `http://localhost:3000/`
 
-    cd ui && npm start
+Build:
+
+    npm run build
+
+### Edit the files in `src` to create your app!
